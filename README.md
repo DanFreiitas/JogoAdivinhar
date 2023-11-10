@@ -1,6 +1,13 @@
-# JogoAdivinhar
-Consiste em adivinhar um número de 0 a 100 com uma quantidade máxima de 10 tentativas.
+# Descrição 
+> Jogo de adivinhação.
+# Solução 
+> Entretenimento.
+# Construção
+> - JAVA
 
+# Instruções
+> Defina um número de 0 a 100, que será armazenado na variável designada dentro do programa. Também é possível determinar o número de chances da menira que desejar. Após rodar o programa, o outro usuário terá o número de chances determinado por você antes da inicialização do programa para tentar advinhar o número escolhido de 0 a 100.
 
-Aproveitando enquanto exercíto com estruturas de controle, e desenvolvendo um jogo de adivinhação, que consiste em tentar adivinhar um número de 0 a 100 com uma quantidade máxima de 10 chances.
-A cada tentativa errada, o contador deverá mostrar na tela a quantidade de chances restantes ao usuário até que o mesmo acerte o número ou esgote todas as suas tentativas para que o laço for seja pulado e siga para o fim do programa.
+### Nota
+> Jogo desenvolvido com o intuito de aprendizado da linguagem JAVA, desenvolvido segundo as instruições do instrutor do curso de programação da linguagem. 
+
